@@ -1,0 +1,22 @@
+{
+  "name": "fastify-template",
+  "version": "1.0.0",
+  "description": "Simple template for a fastify application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabiandes/fastify-template.git"
+  },
+  "author": "Fabian Desnoes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabiandes/fastify-template/issues"
+  },
+  "homepage": "https://github.com/Fabiandes/fastify-template#readme",
+  "dependencies": {
+    "fastify": "^2.15.0"
+  }
+}
